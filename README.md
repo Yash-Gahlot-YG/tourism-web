@@ -28,4 +28,4 @@ Adventure is your passport to explore the world's most exciting destinations and
 
 
 ## 🙏 Support
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+supported bu @Sumit Gandhi
